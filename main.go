@@ -29,5 +29,4 @@ func main() {
 			os.Stdout.WriteString("\n")
 		}
 	}
-	// robert utles et poh
 }
